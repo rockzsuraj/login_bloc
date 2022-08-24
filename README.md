@@ -1,5 +1,7 @@
 # login_bloc
 
+used bloc pattern for state management in this project
+
 A new Flutter project.
 
 ## Getting Started
